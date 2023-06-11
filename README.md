@@ -11,13 +11,13 @@ The primary goal of this course is to gain a deep understanding of prompt engine
 ## Repository Structure
 This repository is organized into the following chapters:
 
-1. Basics/: Introduction to prompt engineering and fundamental techniques
-2. Basic_Applications/: Simple, practical applications of prompt engineering
-3. Intermediate/: Research-based PE techniques with moderate complexity
-4. Applied_Prompting/: Comprehensive PE process walkthroughs contributed by community members
-5. Advanced_Applications/: Powerful, and more complex applications of prompt engineering
-6. Reliability/: Enhancing the reliability of large language models (LLMs)
-7. Images/: Prompt engineering for text-to-image models, such as DALLE and Stable Diffusion
-8. Prompt_Injection/: Hacking, but for prompt engineering
-9. Prompt_Tuning/: Refining prompts using gradient-based techniques
-10. Miscellaneous/: A collection of additional topics and techniques related to prompt engineering
+1. **😃 Basics**: Introduction to prompt engineering and fundamental techniques
+2. **💼 Basic Applications**: Simple, practical applications of prompt engineering
+3. **🧙‍♂️ Intermediate**: Research-based PE techniques with moderate complexity
+4. **🧪 Applied Prompting**: Comprehensive PE process walkthroughs contributed by community members
+5. **🚀 Advanced Applications**: Powerful, and more complex applications of prompt engineering
+6. **⚖️ Reliability**: Enhancing the reliability of large language models (LLMs)
+7. **🖼️ Image Prompting**: Prompt engineering for text-to-image models, such as DALLE and Stable Diffusion
+8. **🔓 Prompt Hacking**: Offensive and defensive techniques for prompt hacking
+9. **💪 Prompt Tuning**: Refining prompts using gradient-based techniques
+10. **🎲 Miscellaneous**: A collection of additional topics and techniques related to prompt engineering
