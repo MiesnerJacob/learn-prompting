@@ -19,6 +19,5 @@ This repository is organized into the following chapters:
 6. Reliability/: Enhancing the reliability of large language models (LLMs)
 7. Images/: Prompt engineering for text-to-image models, such as DALLE and Stable Diffusion
 8. Prompt_Injection/: Hacking, but for prompt engineering
-9. Tooling/: A review of various prompt engineering tools and IDEs
-10. Prompt_Tuning/: Refining prompts using gradient-based techniques
-11. Miscellaneous/: A collection of additional topics and techniques related to prompt engineering
+9. Prompt_Tuning/: Refining prompts using gradient-based techniques
+10. Miscellaneous/: A collection of additional topics and techniques related to prompt engineering
